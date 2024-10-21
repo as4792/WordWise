@@ -18,7 +18,8 @@ nav ul li a{
     display: inline-block;
     text-decoration: none;
     color: whitesmoke;
-
+margin-right: 50px;
+text-align: center;
 }
 
 #header{
