@@ -1,6 +1,26 @@
 html{
     background-color: lightblue;
 }
+
+nav ul{
+    list-style: none;
+    background-color: rgb(155, 155, 240);
+    height: 25px;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+
+nav ul li{
+display: inline-block;
+}
+
+nav ul li a{
+    display: inline-block;
+    text-decoration: none;
+    color: whitesmoke;
+
+}
+
 #header{
     background-color: white;
     color: black;
@@ -16,4 +36,8 @@ margin-right: 50%;
 #titlequestion{
     color: darkblue;
     text-align: center;
+}
+
+#text{
+    margin-left: 56%;
 }
