@@ -1,4 +1,19 @@
-#header{
+html{
     background-color: lightblue;
+}
+#header{
+    background-color: white;
+    color: black;
+    border: 2px;
+    width: 150px;
+    border-style: dashed;
+position: fixed;
+text-align: center;
+margin-left: 43%;
+margin-right: 50%;
+}
 
+#titlequestion{
+    color: darkblue;
+    text-align: center;
 }
