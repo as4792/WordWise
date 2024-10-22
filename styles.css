@@ -40,7 +40,8 @@ margin-right: 50%;
 
 #text{
     margin-left: 56%;
-    text-align: left 100px;
+    text-align: center;
+    width: 30vw;
 }
 
 #signup{
