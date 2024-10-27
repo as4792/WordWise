@@ -1,4 +1,4 @@
-#header{background-color:rgb(128, 0, 128,0.5);
+#header{background-color:lavender;
 color: rgb(82, 82, 190);
 border:3px darkcyan;
 border-style:dashed;
@@ -9,6 +9,7 @@ text-align: center;}
 
 #header2{background-color: lavender;
     color: rgb(138, 43, 226,0.8);
+    width: fit-content;
     position: fixed;
     font-size:x-small;
     font-family:Verdana, Geneva, Tahoma, sans-serif}
@@ -18,5 +19,12 @@ body{background:url(https://png.pngtree.com/background/20230401/original/pngtree
     background-attachment:fixed;
     background-size: cover;
 
+}
+#header3{background-color: aliceblue;
+    color: rgb(0, 0, 0,0.5);
+    width: 1000px;
+    height: 500px;
+    position: fixed;
+    
 
 }
