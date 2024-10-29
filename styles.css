@@ -2,35 +2,15 @@ html{
     background-color: lightblue;
 }
 
-nav ul{
-    list-style: none;
-    background-color: rgb(155, 155, 240);
-    height: 25px;
-    padding: 10px;
-    margin-bottom: 40px;
-}
-
-nav ul li{
-display: inline-block;
-
-}
-
-nav ul li a{
-    display: inline-block;
-    text-decoration: none;
-    color: whitesmoke;
-margin-right: 30px;}
-
 #header{
-    background-color:white;
+    background-color: white;
     color: black;
     border: 2px blue;
-    width: 150px;
+    width: 200px;
     border-style: dashed;
-position: fixed;
-text-align: center;
-margin-left: 43%;
-margin-right: 50%;
+    position: sticky;
+    text-align: center;
+    margin-left: 40%;
 }
 
 #titlequestion{
@@ -49,6 +29,20 @@ margin-right: 50%;
     place-items: center;
     position: fixed;
     margin-left: 17%;
+    bottom: 1%;
+}
 
+.otherpages{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+}
+
+.page2{
+    background-color: lightblue;
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
 }
 
