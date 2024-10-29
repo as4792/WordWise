@@ -12,6 +12,8 @@ text-align: center;}
     width: fit-content;
     position: fixed;
     font-size:x-small;
+    border: 1px,blueviolet;
+    border-style: groove;
     font-family:Verdana, Geneva, Tahoma, sans-serif}
 
 body{background:url(https://png.pngtree.com/background/20230401/original/pngtree-marble-purple-white-pure-background-picture-image_2248214.jpg);
@@ -25,6 +27,7 @@ body{background:url(https://png.pngtree.com/background/20230401/original/pngtree
     width: 1000px;
     height: 500px;
     position: fixed;
-    
+    border:4px rgb(128, 0, 128,1);
+    border-style: dashed;
 
 }
