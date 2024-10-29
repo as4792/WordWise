@@ -18,19 +18,10 @@ html{
     text-align: center;
 }
 
-<<<<<<< Updated upstream
-#text{
-    margin-left: 35%;
-    text-align: center;
-    width: 30vw;
-=======
 .inspotext{
-text-align: center;    
-text-decoration: solid;
-background-color: blue;
-width: 55px;
-
->>>>>>> Stashed changes
+    color: black;
+    text-align: center;
+;
 }
 
 #signup{
