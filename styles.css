@@ -10,7 +10,7 @@ html{
     border-style: dashed;
     position: sticky;
     text-align: center;
-    margin-left: 40%;
+    margin-left: 41.8%;
 }
 
 #titlequestion{
@@ -18,10 +18,19 @@ html{
     text-align: center;
 }
 
+<<<<<<< Updated upstream
 #text{
     margin-left: 35%;
     text-align: center;
     width: 30vw;
+=======
+.inspotext{
+text-align: center;    
+text-decoration: solid;
+background-color: blue;
+width: 55px;
+
+>>>>>>> Stashed changes
 }
 
 #signup{
@@ -33,16 +42,36 @@ html{
 }
 
 .otherpages{
-    background-color: blue;
-    height: 200px;
-    width: 200px;
-    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    flex: wrap;
+    justify-content: space-between;
+    
 }
 
 .page2{
-    background-color: lightblue;
-    height: 200px;
+    background-color: rgb(52, 54, 165);
+    height: 150px;
     width: 200px;
     border: 2px solid black;
+    text-decoration: underline;
+    text-align: center;
+
 }
 
+.page3{
+    background-color: rgb(42, 57, 228);
+    height: 150px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+    text-decoration: underline;
+}
+.page4{
+    background-color: rgb(79, 102, 228);
+    height: 150px;
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+    text-decoration: underline;
+}
