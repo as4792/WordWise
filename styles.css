@@ -11,6 +11,7 @@ html{
     position: sticky;
     text-align: center;
    align-items: center;
+   margin-left: 300px;
 
 }
 
@@ -51,17 +52,18 @@ width: 280px;}
 
 .page2{
     background-color: rgb(52, 54, 165);
-    height: 150px;
+    height: 80px;
     width: 200px;
     border: 2px solid black;
     text-decoration: underline;
     text-align: center;
+    
 
 }
 
 .page3{
     background-color: rgb(42, 57, 228);
-    height: 150px;
+    height: 80px;
     width: 200px;
     border: 2px solid black;
     text-align: center;
@@ -69,7 +71,7 @@ width: 280px;}
 }
 .page4{
     background-color: rgb(79, 102, 228);
-    height: 150px;
+    height: 80px;
     width: 200px;
     border: 2px solid black;
     text-align: center;
