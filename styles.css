@@ -1,18 +1,8 @@
 html{
-    background-color: lightblue;
+    background-color: rgb(247, 247, 247);
 }
 
-#header{
-    background-color: white;
-    color: black;
-    border: 2px blue;
-    width: 100vw;
-    height:100px;
-    border-style: solid;
-    display: flex;
-    text-align: center;
-   align-items: center;
-}
+
 
 #titlequestion{
     color: darkblue;
@@ -33,13 +23,6 @@ html{
     text-align: left;
 width: 280px;}
 
-#signup{
-    background-color: lightblue;
-    place-items: center;
-    position: sticky;
-    justify-content: space-evenly;
-    bottom: 1%;
-}
 
 a{
     color: black;
@@ -81,4 +64,12 @@ a{
     border: 2px solid black;
     text-align: center;
     text-decoration: underline;
+}
+
+    
+.card{
+    place-items: center;
+    position: sticky;
+    justify-content: space-evenly;
+    bottom: 1%;
 }
