@@ -45,10 +45,8 @@ a{
     width: 300px;
     border: 2px solid black;
     border-radius: 5px;
-    text-decoration: underline;
     text-align: center;
     transform:translateX(30px);
-    color: black;
     margin-left: 25px;
     
 
@@ -56,12 +54,10 @@ a{
 
 .page3{
     background-color: rgb(42, 57, 228);
-    color:white;
     height: 80px;
     width: 200px;
     border: 2px solid black;
     text-align: center,20px;
-    text-decoration: underline;
     border-radius: 5px;
 }
 .page4{
@@ -71,7 +67,6 @@ a{
     border: 2px solid black;
     text-align: center;
     transform:translateX(-30px);
-    text-decoration: underline;
     border-radius: 5px;
     margin-right: 25px;
 }
