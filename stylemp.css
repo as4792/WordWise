@@ -41,7 +41,7 @@ body {
 }
 
 h1 {
-    margin-top: 200;  
+    margin-top: 200px;  
     margin-bottom: 50px; 
     text-align: center;
 }
@@ -65,4 +65,42 @@ a {
     display: block;
     margin-top: 10px;
     color: #a0ceff;
+}
+
+/* Feedback Form Specific Styles 
+.feedback-form {
+    background-color: #e5f3fb; 
+    border: 3px solid #315082;  
+    border-radius: 10px;
+    padding: 20px;
+    width: 600px;
+    margin-top: 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.feedback-form input, 
+.feedback-form textarea {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+    border: 1px solid #b6c1ff;
+    font-size: 1rem;
+}
+
+.feedback-form button {
+    background-color: #405a75; 
+    border: 1px solid #b6c1ff;
+    color: white;
+    cursor: pointer;
+}
+
+.feedback-form button:hover {
+    background-color: #85baf3; 
+}
+
+.feedback-form label {
+    font-weight: bold;
+    color: #315082; 
+    margin-bottom: 5px;
 }
