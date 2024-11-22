@@ -39,6 +39,12 @@ a{
     
 }
 
+
+
+a {
+    text-decoration: none;
+    color: black;
+}
 .page2{
     background-color: rgb(53, 53, 77);
     height: 200px;
