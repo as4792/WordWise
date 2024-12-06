@@ -1,0 +1,106 @@
+body {
+    display: flex;             
+    flex-direction: column;    
+    justify-content: flex-start; 
+    align-items: center;       
+    height: auto;               
+    margin: 0;                 
+    background-color: #f0f0f0;
+    padding-top: 20px;         
+}
+
+.header-main {
+    font-weight: bold;
+    text-align: center;
+    color: cadetblue;
+}
+
+.box {
+    background-color: lightblue;
+    border: 4px solid #313b74;
+    border-radius: 12px;
+    width: 900px;
+    padding: 20px;            
+    margin-bottom: 0; 
+}
+
+.header {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.result {
+    display: none; 
+    margin-top: 50px;         
+    margin-bottom: 50px;      
+    text-align: center;       
+}
+
+.result:target {
+    display: block; 
+}
+
+h1 {
+    margin-top: 200px;  
+    margin-bottom: 50px; 
+    text-align: center;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    border: 1px solid #b6c1ff;
+    background-color: #405a75;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #85baf3;
+}
+
+a {
+    display: block;
+    margin-top: 10px;
+    color: #a0ceff;
+}
+
+/* Feedback Form Specific Styles 
+.feedback-form {
+    background-color: #e5f3fb; 
+    border: 3px solid #315082;  
+    border-radius: 10px;
+    padding: 20px;
+    width: 600px;
+    margin-top: 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.feedback-form input, 
+.feedback-form textarea {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+    border: 1px solid #b6c1ff;
+    font-size: 1rem;
+}
+
+.feedback-form button {
+    background-color: #405a75; 
+    border: 1px solid #b6c1ff;
+    color: white;
+    cursor: pointer;
+}
+
+.feedback-form button:hover {
+    background-color: #85baf3; 
+}
+
+.feedback-form label {
+    font-weight: bold;
+    color: #315082; 
+    margin-bottom: 5px;
+}

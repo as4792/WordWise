@@ -1,16 +1,12 @@
 html{
-    background-color: lightblue;
+    background-color: rgb(247, 247, 247);
 }
 
-#header{
-    background-color: white;
-    color: black;
-    border: 2px blue;
-    width: 200px;
-    border-style: dashed;
-    position: sticky;
-    text-align: center;
-    margin-left: 41.8%;
+#navbar{
+    background-color: rgb(155, 80, 80);
+}
+form{
+text-align: left;
 }
 
 #titlequestion{
@@ -24,12 +20,18 @@ html{
 ;
 }
 
-#signup{
-    background-color: lightblue;
-    place-items: center;
-    position: fixed;
-    margin-left: 17%;
-    bottom: 1%;
+.aboutus{
+    position: relative;
+}
+
+.infoonus{
+    text-align: left;
+width: 280px;}
+
+
+a{
+    color: black;
+    text-decoration: none;
 }
 
 .otherpages{
@@ -40,29 +42,48 @@ html{
     
 }
 
+
+
+a {
+    text-decoration: none;
+    color: black;
+}
 .page2{
-    background-color: rgb(52, 54, 165);
-    height: 150px;
-    width: 200px;
+    background-color: rgb(53, 53, 77);
+    height: 200px;
+    width: 300px;
     border: 2px solid black;
-    text-decoration: underline;
+    border-radius: 5px;
     text-align: center;
+    transform:translateX(30px);
+    margin-left: 25px;
+    
 
 }
 
 .page3{
     background-color: rgb(42, 57, 228);
-    height: 150px;
-    width: 200px;
+    height: 200px;
+    width: 300px;
     border: 2px solid black;
-    text-align: center;
-    text-decoration: underline;
+    text-align: center,20px;
+    border-radius: 5px;
 }
 .page4{
-    background-color: rgb(79, 102, 228);
-    height: 150px;
-    width: 200px;
+    background-color: rgb(53, 53, 77);
+    height: 200px;
+    width: 300px;
     border: 2px solid black;
     text-align: center;
-    text-decoration: underline;
+    transform:translateX(-30px);
+    border-radius: 5px;
+    margin-right: 25px;
+}
+
+    
+.card{
+    place-items: center;
+    position: sticky;
+    justify-content: space-evenly;
+    bottom: 1%;
 }
