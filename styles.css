@@ -62,11 +62,11 @@ a {
 }
 
 .page3{
-    background-color: rgb(42, 57, 228);
+    background-color: rgb(53, 53, 77);
     height: 200px;
     width: 300px;
     border: 2px solid black;
-    text-align: center,20px;
+    text-align: center;
     border-radius: 5px;
 }
 .page4{
