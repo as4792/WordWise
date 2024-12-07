@@ -1,0 +1,15 @@
+body {
+    display: flex;             
+    flex-direction: column;    
+    justify-content: flex-start; 
+    align-items: center;       
+    height: auto;               
+    margin: 0;                 
+    background-color: bisque;
+    padding-top: 20px;         
+}
+.sn{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+}
