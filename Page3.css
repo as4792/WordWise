@@ -13,3 +13,16 @@ body{background:url(https://img.freepik.com/free-vector/watercolor-blue-backgrou
     background-attachment:fixed;
     background-size: cover;
 }
+
+#problem {
+    width: 100%; 
+    min-height: 40px;
+    font-size: 15px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    resize: none; 
+    overflow-y: hidden;
+    height: auto;
+}
