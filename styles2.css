@@ -1,11 +1,13 @@
-#header{background-color:lavender;
-color: rgb(82, 82, 190);
-border:3px darkcyan;
-border-style:dashed;
-position: fixed;
-width: 1416.5px;
-height: 80x;
-text-align: center;}
+#header{
+    background-color:lavender;
+    color: rgb(82, 82, 190);
+    border:3px darkcyan;
+    border-style:dashed;
+    position: fixed;
+    width: 1416.5px;
+    height: 80x;
+    text-align: center;
+}
 
 #header2{background-color: lavender;
     color: rgb(138, 43, 226,0.8);

@@ -5,7 +5,6 @@
     color: rgb(11, 99, 121);
     border:3px darkcyan;
     border-style:dashed;
-
     text-align: center;
     font-size: 2vw;
 }
@@ -14,7 +13,6 @@ body{background:url(https://img.freepik.com/free-vector/winter-light-blue-gradie
     background-repeat: no-repeat;
     background-attachment:fixed;
     background-size: cover;
-    
 }
 
 #problem {
